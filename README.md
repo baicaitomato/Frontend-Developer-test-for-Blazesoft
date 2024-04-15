@@ -1,12 +1,12 @@
 # Frontend-Developer-test-for-Blazesoft
 this is the Frontend Developer test for Blazesoft writen by Tianyi Ma.\
-This project was bootstrapped with Vite.\\
+This project was bootstrapped with Vite.\
 
 To run the project, you can run:\
 ### `npm start`
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:5173) to view it in your browser.
-The page will reload when you make changes.\\
+Open [http://localhost:3000](http://localhost:5173) to view it in your browser.\
+The page will reload when you make changes.\
 
 This project does not include the error handle page for RESTful API yet (i.e. status code 404) sicne the requirement states that this is a single-page website.\
 
