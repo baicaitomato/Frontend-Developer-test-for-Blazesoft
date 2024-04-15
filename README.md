@@ -2,7 +2,7 @@
 this is the Frontend Developer test for Blazesoft writen by Tianyi Ma.\
 This project was bootstrapped with Vite.
 
-To run the project, you can run:\
+To run the project, you can run:
 ### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:5173) to view it in your browser.\
