@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useAppSelector, useAppDispatch } from '../redux/hooks'
 import { hidePopup } from '../redux/PopupSlice'
-import { addbook, modifybook } from '../redux/bookSlice'
+import { addbook, modifybook } from '../redux/BookSlice'
 import Alert from 'react-bootstrap/Alert'
 import { Book } from '../types'
 import "../popup.css"

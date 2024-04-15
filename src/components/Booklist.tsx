@@ -1,6 +1,6 @@
 import {  useState } from 'react'
 import { useAppSelector, useAppDispatch } from '../redux/hooks'
-import { removebook } from '../redux/bookSlice'
+import { removebook } from '../redux/BookSlice'
 import { showAddPopup, showModifyPopup } from '../redux/PopupSlice'
 import { Book } from '../types';
 import { BookForm } from './Forms'

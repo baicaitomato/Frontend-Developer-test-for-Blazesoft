@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit'
-import bookReducer from './bookSlice'
+import bookReducer from './BookSlice'
 import popupRedicer from './PopupSlice';
 
 export const store = configureStore({
