@@ -13,6 +13,7 @@ This project does not include the error handle page for RESTful API yet (i.e. st
 ## Design Decision
 
 ### Form
+The form in this project contains common validation for fields: `name` and `category` should be nonempty, `price` should be a number with 2 decimal places after the point.\
 Since the requirement needs two forms with same fields, the factory pattern will work well.\
 However, this project is so small and will not get further development, the form is built as a function with a reducer controling the type of the form without unnecessary decoupling.
 
